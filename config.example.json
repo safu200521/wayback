@@ -1,0 +1,10 @@
+{
+  "api_keys": {
+    "urlscan": "",
+    "virustotal": ""
+  },
+  "settings": {
+    "timeout": 60,
+    "proxy": ""
+  }
+}
