@@ -1,14 +1,13 @@
-# 
-db\u0009 JS Recon & Vulnerability Toolkit
+# JS Recon & Vulnerability Toolkit
 
-A suite of Python tools for **web reconnaissance**, **URL discovery from archives**, **endpoint filtering**, and **JavaScript vulnerability scanning** \u2014 designed for bug-bounty hunters, pentesters, and security researchers.
+A suite of Python tools for **web reconnaissance**, **URL discovery from archives**, **endpoint filtering**, and **JavaScript vulnerability scanning** designed for bug-bounty hunters, pentesters, and security researchers.
 
-> \u26a0\ufe0f **Legal Disclaimer**: These tools are for authorized security testing and educational purposes only. Only run them against targets you own or have explicit permission to test. The author is not responsible for misuse.
+>  **Legal Disclaimer**: These tools are for authorized security testing and educational purposes only. Only run them against targets you own or have explicit permission to test. The author is not responsible for misuse.
 
 ---
 
 ## 
-d6\u0009 Tools Included
+# Tools Included
 
 | Tool | Purpose |
 |------|---------|
@@ -21,7 +20,7 @@ d6\u0009 Tools Included
 ---
 
 ## 
-9e\u0009 Quick Start
+# Quick Start
 
 ### Install
 ```bash
@@ -48,7 +47,7 @@ python multi_source.py -l output/example_com_dead.txt --archive-only -r
 ---
 
 ## 
-dd\u0009 Tool Details
+# Tool Details
 
 ### 1. `url_grabber.py`
 Multi-source URL discovery from public web archives.
